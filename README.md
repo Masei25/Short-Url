@@ -6,5 +6,5 @@
 * Root folder has short_url.php, this is file that displays the short url, when you click on the short url it redirects to the original url
 * error.php displays error
 
-DB Name: short_url
-DB table name : short_urls
+- DB Name: short_url
+- DB table name : short_urls
